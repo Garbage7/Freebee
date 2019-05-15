@@ -1,0 +1,102 @@
+body {
+    height: 100%;
+    text-align: center;
+    background-color: #85D2C5;
+}
+
+input {
+    padding-left: 0.125rem;
+    vertical-align: middle;
+}
+
+.logo {
+    /* margin-top: 4.875rem;
+    margin-left: auto;
+    margin-right: auto; */
+    margin: 20% auto 2.85rem auto;
+    width: 6.3rem;
+    height: 2.275rem;
+}
+
+.logo img {
+    width: 100%;
+    height: 100%;
+}
+
+.email {
+    height: 0.75rem;
+    line-height: 0.75rem;
+    color: #fff;
+    margin-bottom: 1.875rem;
+}
+
+.email span {
+    font-size: 0.75rem;
+    margin-right: 0.95rem;
+}
+
+.passwd {
+    margin-bottom: 2.175rem;
+}
+
+.passwd span {
+    color: #fff;
+    font-size: 0.75rem;
+    margin-right: 0.95rem;
+}
+
+.login {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8.4rem;
+    height: 1.75rem;
+    background-color: #705D76;
+    border-radius: 0.175rem;
+    box-shadow: 0px 4px 2px #5C4D61;
+    margin-bottom: 1rem;
+}
+
+input[type='submit'] {
+    color: #fff;
+}
+
+.forgot {
+    color: #fff;
+    font-size: 0.5rem;
+    height: 0.5rem;
+}
+
+.footer {
+    margin-top: 4.25rem;
+    background-color: #80CABD;
+    width: 100%;
+    height: 5rem;
+    padding-top: 1.05rem;
+}
+
+.facebook {
+    height: 1.65rem;
+    width: 8.3rem;
+    background-color: #8DCFC4;
+    border: 0.05rem solid #fff;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0.125rem;
+}
+
+.facebook p {
+    line-height: 1.65rem;
+    color: #fff;
+    font-size: 0.4rem;
+    height: 1.65rem;
+}
+
+.facebook p span {
+    font-size: 0.75rem;
+}
+
+.footer a {
+    cursor: pointer;
+    font-size: 0.4rem;
+    color: #fff;
+}
